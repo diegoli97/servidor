@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/temario/</loc>
+    <lastmod>2021-09-28T17:16:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prueba2/</loc>
+    <lastmod>2021-09-28T17:40:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-09-28T17:16:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/temario/tema1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/temario/subprueba2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prueba2/tablasylistas/</loc>
+    <lastmod>2021-09-29T15:48:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prueba2/archivos/</loc>
+    <lastmod>2021-09-28T17:59:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prueba2/imagenes/</loc>
+    <lastmod>2021-09-28T17:59:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
