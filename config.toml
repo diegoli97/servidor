@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Desarrollo de aplicaciones web en el servidor"
+theme = "learn"
+
+
+[params]
+themeVariant ="mio"
+
+
+[outputs]
+home=["HTML","RSS","JSON"]
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-php'></i> Página de php"
+identifier= "al"
+url ="https://www.php.net/manual/es/intro-whatis.php"
+weight="10"
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-gamepad'></i> Anaitgames"
+identifier= "anaitgames"
+url ="https://www.anaitgames.com/"
+weight="20"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-twitch'></i> Twitch"
+identifier= "twitch"
+url ="https://www.twitch.tv/"
+weight="30"
