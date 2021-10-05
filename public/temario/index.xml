@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prueba on Desarrollo de aplicaciones web en el servidor</title>
-    <link>http://example.org/temario/</link>
+    <link>https://diegoli97.github.io/servidor/temario/</link>
     <description>Recent content in Prueba on Desarrollo de aplicaciones web en el servidor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Sep 2021 17:16:39 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/temario/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegoli97.github.io/servidor/temario/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Subprueba</title>
-      <link>http://example.org/temario/tema1/</link>
+      <link>https://diegoli97.github.io/servidor/temario/tema1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/temario/tema1/</guid>
+      <guid>https://diegoli97.github.io/servidor/temario/tema1/</guid>
       <description>Probando probando hola Bloodborne es un videojuego de rol de acción dirigido por Hidetaka Miyazaki, desarrollado por From Software y JapanStudio distribuido por Sony Computer Entertainment para la plataforma de PlayStation 4.</description>
     </item>
     
     <item>
       <title>Subprueba 2</title>
-      <link>http://example.org/temario/subprueba2/</link>
+      <link>https://diegoli97.github.io/servidor/temario/subprueba2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/temario/subprueba2/</guid>
+      <guid>https://diegoli97.github.io/servidor/temario/subprueba2/</guid>
       <description>Trying trying hello Un hombre va a la farmacia
  Hola, ¿Hay ampollas? Hello, Mr. Pollas  </description>
     </item>
