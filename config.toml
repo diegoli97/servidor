@@ -3,6 +3,7 @@ title = "Desarrollo de aplicaciones web en el servidor"
 theme = "learn"
 languageCode = "en-es"
 defaultContentLanguage ="es"
+staticDir = "static"
 
 [params]
 themeVariant ="mio"
@@ -17,6 +18,7 @@ home=["HTML","RSS","JSON"]
 
 Title ="Desarrollo web en entorno servidor"
 LanguageName= " Español "
+staticDir = "static"
 weight="1"
 
 [[languages.es.menu.shortcuts]] 
@@ -42,6 +44,7 @@ weight="30"
 
 Title= "Web development in server environment"
 LanguageName = "English"
+staticDir = "static"
 weight="2"
 
 [[languages.en.menu.shortcuts]] 

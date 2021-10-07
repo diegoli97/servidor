@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Desarrollo de aplicaciones web en el servidor</title>
+    <title>Categories on Desarrollo web en entorno servidor</title>
     <link>https://diegoli97.github.io/servidor/categories/</link>
-    <description>Recent content in Categories on Desarrollo de aplicaciones web en el servidor</description>
+    <description>Recent content in Categories on Desarrollo web en entorno servidor</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-es</language>
     
 	<atom:link href="https://diegoli97.github.io/servidor/categories/index.xml" rel="self" type="application/rss+xml" />
     
