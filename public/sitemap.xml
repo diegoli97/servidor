@@ -1,51 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/temario/</loc>
-    <lastmod>2021-09-28T17:16:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/prueba2/</loc>
-    <lastmod>2021-09-28T17:40:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/</loc>
-    <lastmod>2021-09-28T17:16:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/temario/tema1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/temario/subprueba2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/prueba2/tablasylistas/</loc>
-    <lastmod>2021-09-29T15:48:42+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/prueba2/archivos/</loc>
-    <lastmod>2021-09-28T17:59:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/prueba2/imagenes/</loc>
-    <lastmod>2021-09-28T17:59:17+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://diegoli97.github.io/servidor/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://diegoli97.github.io/servidor/es/sitemap.xml</loc>
+		
+	   	<lastmod>2021-09-29T15:48:42+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://diegoli97.github.io/servidor/en/sitemap.xml</loc>
+		
+	   	<lastmod>2021-09-29T15:48:42+02:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
